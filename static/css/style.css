@@ -1,0 +1,21 @@
+.flex-container {
+    display: inline-block;
+    width: 1000px;
+    height: 1000px;
+}
+.row {
+    height: 20px;
+    padding: 0px;
+}
+.box {
+    background-color: rgb(255, 0, 0);
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+}
+.box2 {
+    background-color: black;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+}
